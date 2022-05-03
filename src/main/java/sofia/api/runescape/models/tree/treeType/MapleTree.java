@@ -7,7 +7,7 @@ import sofia.api.runescape.models.tree.Tree;
 /**
  * Create a new Maple Tree.
  *
- * @author sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.0
  */
