@@ -8,7 +8,7 @@ import java.util.Set;
  * Provides utilities for Worlds. <br/>
  * NO VIP, NO SKILL REQUIRE, NO ROLE PLAY, NO EOC/LEGACY ONLY
  *
- * @author Sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.1
  */
