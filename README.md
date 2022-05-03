@@ -58,9 +58,9 @@ Build the source code to .jar and place it into the plugin kraken's folder
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0xfffcf/RuneScape3-API?color=ff69b4">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/0xfffcf/RuneScape3-API?color=ff69b4">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/0xfffcf/RuneScape3-API?color=ff69b4">
-    <img alt="GitHub" src="https://img.shields.io/github/license/0xfffcf/RuneScape3-API?color=ff69b4">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xfffcf/RuneScape3-API?color=ff69b4">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0xfffcf/RuneScape3-API?color=7143de">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/0xfffcf/RuneScape3-API?color=7143de">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/0xfffcf/RuneScape3-API?color=7143de">
+    <img alt="GitHub" src="https://img.shields.io/github/license/0xfffcf/RuneScape3-API?color=7143de">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xfffcf/RuneScape3-API?color=7143de">
 </p>
