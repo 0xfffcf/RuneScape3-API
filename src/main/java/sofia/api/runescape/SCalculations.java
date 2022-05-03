@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Provides utilities for Calculation.
  *
- * @author Sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.1
  */
