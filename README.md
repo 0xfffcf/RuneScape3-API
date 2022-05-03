@@ -1,7 +1,7 @@
 <h1 align="center">Dunker</h1>
 
 <p align='center'>
-    <b>💖 API for Runescape3 written in Java on top of Kraken 💖</b>
+    <b>💀 API for Runescape3 written in Java on top of Kraken 💀</b>
 </p>
 
 ----
