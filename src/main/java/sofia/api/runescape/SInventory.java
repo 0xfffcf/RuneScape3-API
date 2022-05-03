@@ -7,7 +7,7 @@ import static kraken.plugin.api.Actions.MENU_EXECUTE_WIDGET;
 /**
  * Provides access to the local player's inventory.
  *
- * @author Sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.0
  */
