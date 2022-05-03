@@ -32,7 +32,7 @@
 > # Setup.
 
 ```
-Download the latest realese on github and add it to your java project.
+Build the source code to .jar and place it into the plugin kraken's folder
 ```
 
 <br/>
