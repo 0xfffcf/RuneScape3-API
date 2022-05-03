@@ -7,7 +7,7 @@ import static kraken.plugin.api.Rng.i32;
 /**
  * Provides help for World Hopping.
  *
- * @author Sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.1
  */
