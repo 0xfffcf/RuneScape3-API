@@ -32,7 +32,7 @@
 > # Setup.
 
 ```
-Build the source code to .jar and place it into the plugin kraken's folder
+Build the source code to .jar and use it as a java library
 ```
 
 <br/>
