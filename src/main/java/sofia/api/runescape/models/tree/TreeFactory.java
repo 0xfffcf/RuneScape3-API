@@ -5,7 +5,7 @@ import sofia.api.runescape.models.tree.treeType.*;
 /**
  * Tree Factory class.
  *
- * @author sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.0
  */
