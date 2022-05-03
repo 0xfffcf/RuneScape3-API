@@ -5,7 +5,7 @@ import kraken.plugin.api.*;
 /**
  * Provides access to the local player's bank.
  *
- * @author Sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @since 1.0.0
  */
