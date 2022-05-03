@@ -7,7 +7,7 @@ import sofia.api.runescape.models.tree.Tree;
 /**
  * Create a new DeadTree.
  *
- * @author sofia
+ * @author 0xfffcf
  * @version 1.0.0
  * @see Tree
  * @since 1.0.0
